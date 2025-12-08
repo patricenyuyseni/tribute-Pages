@@ -20,4 +20,4 @@ project-folder
 
 -Ends with a quote and a link to learn more
 
--Structured using basic HTML elements div, section, ul/li, footer
+-Structured using basic HTML elements div, section, ul/li, footer![alt text

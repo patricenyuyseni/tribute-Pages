@@ -1,37 +1,51 @@
-body{
+body {
     height: 100%;
-    display: flex;
-    flex-direction: column;
     justify-content: center;
     text-align: center;
     background-color: rgb(243, 243, 240);
     font-family: Arial, sans-serif;
     font-size: 20px;
 }
-.image{
+
+.image {
     text-align: center;
     background-color: white;
     margin: auto;
     padding-bottom: 25px;
+    padding-top: 25px;
 }
-#header{
+
+#header {
     background-color: rgb(243, 243, 240);
 }
-#center{
+
+#center {
     display: inline-block;
     text-align: left;
     width: 35%;
 }
-#section{
+
+#section {
     background-color: rgb(245, 245, 242);
 }
-#footer{
+
+#footer {
     background-color:rgb(243, 243, 240);
     display: inline-block;
     font-style: italic;
     margin: auto;
     width: 35%;
 }
-a{
+
+a {
     color: rgb(72, 72, 253);
+}
+
+.ul-list {
+    text-align: center;
+    padding: 50px;
+}
+
+#life {
+    font-style: italic;
 }

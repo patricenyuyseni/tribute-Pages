@@ -88,3 +88,40 @@ a {
 /* main {
 background-color: #bebcbc;
 } */
+
+/* 📱 Mobile Responsive */
+@media (max-width: 768px) {
+  body {
+    padding: 10px;
+  }
+
+  .photo {
+    margin: 0;
+  }
+
+  .photo img {
+    width: 100%;
+    max-width: 100%;
+    margin: 10px 0;
+  }
+
+  .herotext {
+    width: 100%;
+    padding-left: 0;
+    margin-top: 20px;
+    gap: 20px;
+  }
+
+  .ul-list {
+    width: 100%;
+    flex-direction: column;
+  }
+
+  .text p {
+    text-align: left;
+  }
+
+  header {
+    padding-bottom: 15px;
+  }
+}
